@@ -1,0 +1,2 @@
+# AngularTemplateCollection
+Angular no
