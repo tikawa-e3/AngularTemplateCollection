@@ -1,27 +1,32 @@
 # AngularInfiniteScroll
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+このプロジェクトは [Angular CLI](https://github.com/angular/angular-cli) バージョン 13.3.5 で生成されています。
+無限スクロールのサンプルプログラムです。
+参考ページ：https://zoaibkhan.com/blog/create-a-fast-infinite-scrolling-list-in-angular/
+参考 Github：https://github.com/thisiszoaib/angular-infinite-scroll
 
-## Development server
+## 開発サーバ
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+開発用サーバーとして `ng serve` を実行します。http://localhost:4200/`に移動します。ソースファイルを変更すると、アプリケーションは自動的にリロードされます。
 
-## Code scaffolding
+## コードスキャフォールド
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+新しいコンポーネントを生成するために、`ng generate component component-name` を実行します。また、 `ng generate directive|pipe|service|class|guard|interface|enum|module` も利用できます。
 
-## Build
+## ビルド
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+プロジェクトをビルドするために `ng build` を実行します。ビルドの成果物は `dist/` ディレクトリに格納されます。
 
-## Running unit tests
+## ユニットテストの実行
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Karma](https://karma-runner.github.io)を介してユニットテストを実行するために、`ng test`を実行します。
 
-## Running end-to-end tests
+## エンドツーエンドテストの実行
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+任意のプラットフォームでエンドツーエンドテストを実行するには、`ng e2e` を実行します。このコマンドを使うには、まずエンドツーエンドのテスト機能を実装したパッケージを追加する必要があります。
 
-## Further help
+## さらなるヘルプ
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Angular CLI に関するヘルプは `ng help` を使用するか、[Angular CLI Overview and Command Reference](https://angular.io/cli) ページを参照してください。
+
+www.DeepL.com/Translator（無料版）で翻訳しました。
